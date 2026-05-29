@@ -44,6 +44,7 @@ next-env.d.ts
 PROJECT_DESIGN.md
 DjangoFlowchart.md
 DATABASE_DESIGN.md
+CLAUDE_DESIGN.md
 
 plan_fee.csv
 students.csv
